@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: af4ab2b620f901148a5548ed44326961
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pie1: {fileID: 2242947431292727449, guid: 43dafbfba548a5e4f8818e3115b826de, type: 3}
+  - pie2: {fileID: 8740495520065760360, guid: 2b72ebe2fa409e543ae795d705e04744, type: 3}
+  - eventP1: {fileID: 258462129149360175, guid: d926ea4f8a570254a8e3b51df179014b, type: 3}
+  - eventP2: {fileID: 4303820539725028946, guid: f2838183923215742817094ad37c906b, type: 3}
+  - pro1: {fileID: 3712529445116228759, guid: 0e5145c40f59a4e4a82ac18153212cf5, type: 3}
+  - pro2: {fileID: 568221887477233329, guid: f5f9cc164c822ba42a0d03161fe960f2, type: 3}
+  - eventP1_1: {fileID: 1496277391580392794, guid: 9cf46c8c0b8be814f892c627c68d1ea2, type: 3}
+  - eventP2_1: {fileID: 2649984727952451581, guid: 7f1ac0f2de15ece478e3a70d8f25ce7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
